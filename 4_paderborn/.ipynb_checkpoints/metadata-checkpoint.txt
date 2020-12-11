@@ -1,0 +1,5 @@
+K001 1500 400 http://groups.uni-paderborn.de/kat/BearingDataCenter/K001.rar
+K002 1500 400 http://groups.uni-paderborn.de/kat/BearingDataCenter/K002.rar
+K003 1500 400 http://groups.uni-paderborn.de/kat/BearingDataCenter/K003.rar
+K004 1500 400 http://groups.uni-paderborn.de/kat/BearingDataCenter/K004.rar
+K005 1500 400 http://groups.uni-paderborn.de/kat/BearingDataCenter/K005.rar
