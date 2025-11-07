@@ -6,7 +6,7 @@
   The experiment was designed and completed in 2014 by Christian Lessmeier, Enge-Rosenblatt, Bayer, & Zimmer, University of Paderborn, Germany.
 
 
-Data download link: https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/
+Data download link: [https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download)
 Name of the Institute and KAt-DataCenter link: Christian Lessmeier et al.
 Chair of Design and Drive Technology, University of Paderborn. For commercial use, please contact the author.
 
